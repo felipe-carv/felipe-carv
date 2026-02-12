@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Olá, eu sou o Felipe Andrade Carvalho
+Desenvolvedor Full-stack
 
-<!--
-**felipe-carv/felipe-carv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recentemente concluí minha graduação em Análise e Desenvolvimento de Sistemas (UNINTER). Minha sólida formação prévia em Química Industrial (UFOP) e o Mestrado em Agroquímica (UFV) me proporcionaram uma base analítica rigorosa, que hoje aplico na resolução de problemas complexos e no desenvolvimento de sistemas eficientes e escaláveis.
 
-Here are some ideas to get you started:
+🚀 Projetos Pessoais
+Lazoos.me: E-commerce full-stack com automação de pagamentos e mensageria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SimRace Central: Portal de estatísticas para simuladores de corrida (em desenvolvimento).
+
+🛠 Tech Stack
+Linguagens: Python (Django), JavaScript (Node.js/React), SQL.
+
+Banco de Dados: SQL Server (Queries avançadas e otimização).
+
+Integrações: APIs RESTful, Webhooks (Mercado Pago/Stripe).
